@@ -12,7 +12,7 @@ This application allows you to take an existing text editor app and add function
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [License](#license)
 - [Contributing](#contributing)
@@ -36,8 +36,11 @@ Type the following command in your termimal:
 Then open Insomnia and type http://localhost:3000/ to run this application on your local machine.
 
 ## Deployed Link
+https://murmuring-temple-66058.herokuapp.com/
 
-## Demo
+## Screenshots
+![image](https://user-images.githubusercontent.com/108823822/204162132-2ff7c832-e42f-4646-a023-6139ea51f031.png)
+
 
 **[⬆ back to top](#table-of-contents)**
 
